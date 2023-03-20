@@ -1,0 +1,1 @@
+gcc main.c pub.c video.c -lzmq -lpthread  -o pub
